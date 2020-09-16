@@ -14,5 +14,7 @@ Esegui su linux:
 - Riccardo Giangani
 - Filippo Sonnati
 - Riccardo Renzoni
+- Leonardo Baldini
+- Lorenzo Bennati
 
 #### Made by Daniele Castiglia, Francesco Borri
