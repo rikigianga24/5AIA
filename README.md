@@ -2,4 +2,4 @@
  
 Hello World
 
-##### Made by Daniele Castiglia
+##### Made by Daniele Castiglia, Francesco Borri
