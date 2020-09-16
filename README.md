@@ -12,5 +12,6 @@ Esegui su linux:
 - Sultan Zhunushov
 - Leonardo Fattorini
 - Riccardo Giangani
+- Filippo Sonnati
 
 #### Made by Daniele Castiglia, Francesco Borri
