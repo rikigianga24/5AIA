@@ -3,7 +3,7 @@
 
 int main(int argc, char **argv)
 {
-	printf("%s", "Hello World");
+	printf("%s\n", "Hello World");
 	fflush(stdout);
 	return 0;
 }
