@@ -2,9 +2,9 @@
  
 Esegui su linux:
 
-`git clone https://github.com/francescoborri/5AIA`
+- `git clone https://github.com/francescoborri/5AIA`
 
-`sudo 5AIA/src/eseguimi`
+- `sudo 5AIA/src/eseguimi`
 
 ## Partecipanti correnti
 - Daniele Castiglia
