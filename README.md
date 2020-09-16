@@ -13,5 +13,6 @@ Esegui su linux:
 - Leonardo Fattorini
 - Riccardo Giangani
 - Filippo Sonnati
+- Riccardo Renzoni
 
 #### Made by Daniele Castiglia, Francesco Borri
