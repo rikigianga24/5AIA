@@ -9,5 +9,9 @@ Esegui su linux:
 - Filippo Viti
 - Daniele Tobia
 - Pietro Bigiarini
+- Sultan Zhunushov
+- Leonardo Fattorini
+- Riccardo Giangani
+- Filippo Sonnati
 
 #### Made by Daniele Castiglia, Francesco Borri
