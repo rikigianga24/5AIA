@@ -7,5 +7,7 @@ Esegui su linux:
 - Daniele Castiglia
 - Francesco Borri
 - Filippo Viti
+- Daniele Tobia
+- Pietro Bigiarini
 
 #### Made by Daniele Castiglia, Francesco Borri
