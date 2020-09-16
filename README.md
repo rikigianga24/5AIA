@@ -10,5 +10,7 @@ Esegui su linux:
 - Daniele Tobia
 - Pietro Bigiarini
 - Sultan Zhunushov
+- Leonardo Fattorini
+- Riccardo Giangani
 
 #### Made by Daniele Castiglia, Francesco Borri
